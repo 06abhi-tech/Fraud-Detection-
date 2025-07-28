@@ -50,7 +50,7 @@ sns.countplot(x="is_fraud", data=df)
 2. Incorporate anomaly detection (Isolation Forest).
 3. Integrate model with cloud (Azure or IBM Code Engine)
 
-# 🧑‍💻 Author
+ 🧑‍💻 Author
 **Abhishek Sharma**  
 🔗 [LinkedIn Profile](https://www.linkedin.com/in/abhishek-sharma-2bb1b0325)  
 Passionate about AI/ML and cybersecurity with experience in Azure-based chatbot deployment and fraud detection modeling.
